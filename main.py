@@ -8,9 +8,10 @@ import ssl
 
 # 定义文件分类规则
 RULES = {
+    '程序': ['.exe', '.msi', '.bat', '.sh','com'],
     '图片': ['.jpg', '.jpeg', '.png', '.gif', '.bmp', '.webp', '.svg'],
     '文档': ['.pdf', '.docx', '.txt', '.xlsx', '.pptx', '.md'],
-    '压缩包': ['.zip', '.rar', '.7z', '.tar', '.gz'],
+    '压缩包': ['.zip', '.zipx','.rar', '.7z', '.tar', '.gz','.egg','.cab','.iso','.wim','.bh','.001','.ace'],
     '音频': ['.mp3', '.wav', '.flac', '.aac'],
     '视频': ['.mp4', '.avi', '.mkv', '.mov', '.flv'],
     '代码': ['.py', '.js', '.html', '.css', '.java', '.cpp', '.c', '.h', '.php', '.go', '.rs'],
