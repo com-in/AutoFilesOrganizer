@@ -9,7 +9,6 @@ A simple and efficient file organization tool that automatically categorizes fil
 - **Automatic File Categorization**: Automatically organizes files into categories (Images, Documents, Archives, Audio, Video, Others)
 - **Customizable Paths**: Supports custom source and output directories
 - **Default Path Support**: Uses current directory as default if paths are not specified
-- **Theme Support**: Light, Dark, and System theme modes
 - **Cross-Platform**: Works on Windows, macOS, and Linux
 
 ## Supported File Types
